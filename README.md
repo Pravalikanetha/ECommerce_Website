@@ -3,13 +3,18 @@ This Spring Boot application provides a REST API for managing products in an e-c
 
 **Product Management:**
 CRUD (Create, Read, Update, Delete) operations for products.
+
 Product image storage and retrieval.
+
 Basic search functionality for products (name, description, brand, category).
 
 **Technologies:**
+
 Spring Boot
-Spring Data JPA(hibernate)
-Lombok (for concise boilerplate code)
+
+Spring Data JPA(hibernate),
+
+Lombok (for concise boilerplate code).
 
 **Prerequisites:**
 Java Development Kit (JDK) installed
